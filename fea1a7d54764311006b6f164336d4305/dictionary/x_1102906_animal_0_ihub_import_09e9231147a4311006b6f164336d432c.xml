@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="884da3d147a4311006b6f164336d433b" extends="sys_import_set_row" label="Breed Data CSV Import" max_length="40" name="x_1102906_animal_0_ihub_import_09e9231147a4311006b6f164336d432c" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=type" label="type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>
